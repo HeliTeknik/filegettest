@@ -1,9 +1,8 @@
-
-/*
-<?
-$content = file_get_contents('http://www.sozcu.com.tr/kategori/yazarlar/');
-echo $content;
-*/
+//
+//<?
+//$content = file_get_contents('http://www.sozcu.com.tr/kategori/yazarlar/');
+//echo $content;
+//
 
 
 

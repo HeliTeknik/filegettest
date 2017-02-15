@@ -4,7 +4,7 @@
 
 // require 'scraperwiki.php';
 // require 'scraperwiki/simple_html_dom.php';
-$content = file_get_contents('www.sozcu.com.tr/kategori/yazarlar/');
+$content = file_get_contents('http://www.sozcu.com.tr/kategori/yazarlar/');
 echo $content;
 // // Read in a page
 // $html = scraperwiki::scrape("http://foo.com");

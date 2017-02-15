@@ -11,7 +11,7 @@ $dom = new simple_html_dom();
 $dom->load($html);
 
 $record = array(
-            'html' => $tds[0]->plaintext 
+            'html' => $html 
         );
  scraperwiki::save( array('html'), $record )
 
